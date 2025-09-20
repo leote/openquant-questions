@@ -1,11 +1,6 @@
 import random
 
-
-
 array = []
-
-
-
 
 for x in range(1_000_000): 
     minimum = 100 # set minimum
@@ -22,6 +17,7 @@ average_roll = sum(array) / len(array)
 
 
 print ("average roll = ", average_roll)
+
 
 
 
