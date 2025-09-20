@@ -1,3 +1,9 @@
+#What is the expected number of cards you need to draw from a 52-card deck before you see the first ace?
+
+
+
+
+
 import random
 
 def first_ace():
@@ -18,6 +24,7 @@ for i in range(num_simulations):
     total_cards += first_ace()
 
 average_cards = total_cards / num_simulations
+
 
 
 
