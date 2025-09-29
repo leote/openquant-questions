@@ -1,5 +1,5 @@
 #Suppose you roll three fair 100-sided die. What is the expected value of the lowest roll?
-
+#https://openquant.co/questions/3-die-minimum
 
 import random
 
@@ -20,6 +20,7 @@ average_roll = sum(array) / len(array)
 
 
 print ("average roll = ", average_roll)
+
 
 
 
