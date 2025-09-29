@@ -1,4 +1,5 @@
 #What is the expected number of cards you need to draw from a 52-card deck before you see the first ace?
+#https://openquant.co/questions/race-to-ace
 
 
 
@@ -29,3 +30,4 @@ average_cards = total_cards / num_simulations
 
 
 print("Average cards drawn = ", average_cards )
+
